@@ -2,8 +2,8 @@
 .btn-secondary,
 .btn-secondary:hover,
 .btn-secondary:focus {
-  background-color: #2bb686;
-  border-color: #2bb686;
+  background-color: #7cadb5;
+  border-color: #7cadb5;
 }
 
 .text-primary {
@@ -19,11 +19,12 @@
 }
 
 .bg-primary {
-  background-color: #141e4c !important;
+  background: url(img/1440x450.jpg) 50% no-repeat, linear-gradient(#878787, #ebebeb) !important;
+  background-size: cover !important;
 }
 
 .bg-secondary {
-  background-color: #dfedf5 !important;
+  background-color: rgba(124, 173, 181, 0.608) !important;
 }
 
 .bg-dark {
